@@ -1,0 +1,11 @@
+click~=8.1.7
+python-dotenv~=1.0.1
+alltrue @ git+ssh://git@github.com/AllTrue-ai/ai-security-python-api.git@v0.0.74
+boto3-stubs~=1.34.64
+boto3~=1.34.93
+pytest~=8.1.1
+requests==2.26.0
+vyper==0.4.0
+forminator==0.1.0
+langchain==0.1.0
+
